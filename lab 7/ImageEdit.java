@@ -32,8 +32,7 @@ public class ImageEdit
     public ImageEdit()
     {
         f=new MyFrame("Графический редактор");
-        //Changed width by 10 pixels
-        f.setSize(360,350);
+        f.setSize(360+9*10,360+9*10);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         maincolor=Color.black;
 

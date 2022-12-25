@@ -9,6 +9,7 @@ public class Item {
         this.itemName = "Name";
         this.itemPrice = 100.00;
     }
+
     public Item(String name, double price) {
         this.itemName = name;
         this.itemPrice = price;

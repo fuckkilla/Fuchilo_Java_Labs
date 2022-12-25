@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6e09da6-ecca-4f8a-b2fd-30415f915cd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Fuchilo_Java_Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ImageEdit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab 7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab 4/lab 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab 4/lab 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab 4/out/production/lab 4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab 4/out/production/lab 4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab 4/src/BasicClasses/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab 4/src/BasicClasses/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab 4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab 4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab 6/src/Carshop/Cars/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab 6/src/Carshop/Cars/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab 6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab 6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Отчёт lab 1.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JQHPpddMRiJ0n3W3VM6D0gc6gj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6e09da6-ecca-4f8a-b2fd-30415f915cd2" name="Changes" comment="" />
+      <created>1672003365169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672003365169</updated>
+    </task>
+    <servers />
+  </component>
+</project>

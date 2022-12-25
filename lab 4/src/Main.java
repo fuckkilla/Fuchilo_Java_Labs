@@ -25,7 +25,7 @@ public class Main {
 
         NewBill testBillDiscount = new NewBill(itemList);
 
-        //System.out.println(testBillDiscount.printCheck(true));
+        System.out.println(testBillDiscount.printCheck(true));
         System.out.println(testBillDiscount.printCheck(false));
         System.out.println(testBillDiscount.printDiscount());
     }

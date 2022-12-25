@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec60dd6b-1dcc-44df-ab54-e9e2b2bfa176" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lab 4/lab 4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab 4/lab 4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 4/out/production/lab 4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab 4/out/production/lab 4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 4/src/BasicClasses/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab 4/src/BasicClasses/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab 4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 6/src/Carshop/Cars/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab 6/src/Carshop/Cars/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 6/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab 6/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 7/lab7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/ImageEdit.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/ImageEdit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/brush.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/colorbotle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/elips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/lastic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/pen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/rect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/text.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab 8/задание.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Отчёт lab 1.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JPu9zXr4h9ORHj3HCONfSiwCkx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="lab3" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec60dd6b-1dcc-44df-ab54-e9e2b2bfa176" name="Changes" comment="" />
+      <created>1671991891486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671991891486</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

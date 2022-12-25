@@ -2,7 +2,6 @@ package Carshop.Cars;
 
 public class Truck extends Car {
     public int weight;
-
     public Truck(int speed, boolean isSellOut, double regularPrice, String color, int weight) {
         super(speed, isSellOut, regularPrice, color);
         this.weight = weight;
